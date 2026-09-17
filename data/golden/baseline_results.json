@@ -1,0 +1,185 @@
+{
+  "evaluation": {
+    "golden_examples": 200,
+    "training_examples": 1609,
+    "training_labels_are_silver": true,
+    "golden_labels_are_human_verified": false
+  },
+  "majority_baseline": {
+    "majority_intent": "other_unclear",
+    "accuracy": 0.57,
+    "macro_f1": 0.0807
+  },
+  "tfidf_logistic_regression": {
+    "accuracy": 0.69,
+    "macro_f1": 0.4497,
+    "per_intent": {
+      "account_access": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f1": 0.3333,
+        "support": 2
+      },
+      "cancellation_request": {
+        "precision": 1.0,
+        "recall": 0.3333,
+        "f1": 0.5,
+        "support": 6
+      },
+      "damaged_item": {
+        "precision": 0.3333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "support": 3
+      },
+      "delivery_delay": {
+        "precision": 0.5556,
+        "recall": 0.5769,
+        "f1": 0.566,
+        "support": 26
+      },
+      "missing_delivered": {
+        "precision": 0.1818,
+        "recall": 1.0,
+        "f1": 0.3077,
+        "support": 2
+      },
+      "other_unclear": {
+        "precision": 0.8211,
+        "recall": 0.886,
+        "f1": 0.8523,
+        "support": 114
+      },
+      "prime_membership": {
+        "precision": 1.0,
+        "recall": 0.1111,
+        "f1": 0.2,
+        "support": 18
+      },
+      "refund_request": {
+        "precision": 0.7692,
+        "recall": 0.5556,
+        "f1": 0.6452,
+        "support": 18
+      },
+      "technical_support": {
+        "precision": 0.3333,
+        "recall": 0.0909,
+        "f1": 0.1429,
+        "support": 11
+      }
+    },
+    "confusion_matrix_labels": [
+      "account_access",
+      "cancellation_request",
+      "damaged_item",
+      "delivery_delay",
+      "missing_delivered",
+      "other_unclear",
+      "prime_membership",
+      "refund_request",
+      "technical_support"
+    ],
+    "confusion_matrix": [
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        15,
+        5,
+        5,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        2,
+        1,
+        2,
+        101,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        4,
+        2,
+        9,
+        2,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        2,
+        4,
+        0,
+        1,
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        0,
+        0,
+        7,
+        0,
+        1,
+        1
+      ]
+    ]
+  }
+}

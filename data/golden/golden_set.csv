@@ -1,0 +1,232 @@
+﻿tweet_id,customer_text,gold_intent,notes,source
+1131240,@AmazonHelp There’s the usual button - did I solve your problem but no point in pressing that because it isn’t solved. Has been better recently but now😫,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1115366,@AmazonHelp I'm pissed off with you people now...Not set shipping my order..Waiting Since 8th October!!!! WHAT TYPE OF SERVICE IS THIS!???,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1080292,@AmazonHelp Have you got any advice for me?,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1115009,"@120533 quand un colis revient chez vous suite à l'incompétence d'un livreur @132988, peut-on le récupérer? Ou on peut lui dire adieu?",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1156249,"@AmazonHelp Évidemment ! Et ils ont d'abord envoyé un second produit. Et quand j'ai réclamé ""juste l'adaptateur à 6€"", ben on m'a répondu à côté. 1/2",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1080333,@AmazonHelp Amazon EU S.a.r. L,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1171358,@AmazonHelp Carrier was AMZL US,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1054776,@AmazonHelp The order No is 204-5895601-1779530,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1118604,"@AmazonHelp There was so much hassle in cash on delivery, once you take pre paid money, god knows how long I will have to struggle to get product!",refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1155449,i placed an amazon order almost two months ago that i never received but still got charged help @115821 @AmazonHelp,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1175594,Where can I watch Outlander? @116618 @131996  @116602 @396538 @396539,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+115818,Comprei meus livros na segunda e já chegaram. Como não amar a @117086 💕,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1053537,"@115830 working your miracles again! 3 weeks early, my new iPad smart cover works a treat, and dad loves the @76105 book i ordered",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1076322,@AmazonHelp I think so...,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1026157,@AmazonHelp My order was not delivered. Apart from that wrong information was updated that no one was there to accept it.,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1107228,Pedí una cosita en @116928 el 3/10 y decían que llegaría el 6 u 11 pero no llega🙄 Además no me han dado ni el número de seguimiento 😤,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1073726,@AmazonHelp Yes order was placed on amazon.in and order no is 408-9230945-5135569 dt. 17/10/2017,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1019292,Is anyone else having problems with @116618?,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1006558,@AmazonHelp I’ve emailed.,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1117713,"@AmazonHelp YEAH BRO BUT I NEED YOU TO SOLVE THIS PLEASE JUST DELIVER IT
+THANKS",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+114399,@AmazonHelp Colis privé,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1125124,"@115850 you always continue to gain my reliability and I am highly impressed with the service, within couple of hours of pick up of the return product, am refunded. You r truly consumer centric😎😎😎",refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1089822,"Fraud activities running in Amazon India, Order no (402-6141121-0449110).  Order was virtually delivered, @53379 , @115850 , @115821",missing_delivered,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1104313,"@118919 @115850
+My frnd ordered MotoG5 but U gave him old broken mob with Rin Soap bars.Diwali offer char raha hai kya? @380607",damaged_item,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1004531,@AmazonHelp amazon.ca,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1072126,@AmazonHelp help me out,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1167714,@AmazonHelp @AmazonHelp It's not showing any status...,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1083836,@AmazonHelp The delivery driver said his documents showed he should have had all 3 parcels but they were not all on the van.,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1058803,@AmazonHelp Thanks so much for getting back to me on this. Really felt the customer service. /Sarcasm,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1072650,@117086 A promoção do Kindle vai até que dia?,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1041712,@116875 Exelente servicio,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1044954,@AmazonHelp Muchas gracias ;),other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+114364,"@AmazonHelp 206-9965164-0181122 our previous incubator ordered from you failed so we ordered another because prime should have got it to us on time, for the 4th time you ""couldn't find us"" and now the hatchlings are now DEAD! Profit may be important but LIFE is more so!",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1090511,@115850 @120543 i prhse item frm Amazon but every time u sent thru Indiapost which get rtnd bcoz gr8 servce.,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1058195,#Amazophobia a phenomenon where something is either on the way or being delivered today from @115850 #amazonprime  #AmazonIndia,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1076380,@AmazonHelp Pero es el crédito que disteis con la promoción de prime video. No es un código en si.,prime_membership,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1173026,"Yes. I'm having major issues.Two packages were stolen from my porch this morning and I am mad as hell! 
+$600 worth of scientific instruments",missing_delivered,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1014767,@AmazonHelp What detail,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1114871,@AmazonHelp Mobile chat,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1001052,"@AmazonHelp There u go i done that bt i am really nt happy with Amazon even if u replace d phn, u hv lost my trust. I wl nt buy phns from Amazon anymore",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1053484,@116875 Siiii..fue regalo y le encanto...mil gracias,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1073280,"@115821 Help pls 1) item arrived damaged 2) No confirmatory email from amazon 3) No details on amazon acct! Looks fishey, I need to DM photo",damaged_item,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1141481,"@AmazonHelp Yes that too by 4 days.ORDER # 403-1855304-7621937
+Please speed up the delivery process",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1105756,Amazonから不具合品寄越されてクッソイライラしてる,damaged_item,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1155412,My auntie (who I share a birthday with) sent me a really angry text telling me that my present was lost by Amazon but she was never told 😂😂,missing_delivered,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1135927,"@115830 Hi, I sent back goods with the option to replace last week but got email today saying I was getting refund instead,is this normal?",refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1043560,"@116928 Trying to claim refund for the government funded bank of books, ,( banco de llibres) please advise",refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1152632,"@AmazonHelp Y por otro lado he comprado un producto en preventa con prime que aún no se le conoce fecha de entrega, pero que puedo comprar en stock...",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1031087,"@115825 Ein riesengroßes DANKESCHÖN, dass ihr die neue #Outlander  Folge so schnell eingestellt habt. Ihr seid spitze.",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1108203,@AmazonHelp Merci ! En espérant une amélioration globale du service.,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1114959,@AmazonHelp @115850 #Amazon Hour 3 of the 3rd pickup exhausted. Nothing happened. Any body say what's wrong here? Worst service Amazon,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1114866,@AmazonHelp No explanation offered. It’s been sent back twice and estimate delivery date just changes. I have no clue what’s going on,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+111754,"@115833 
+So, my echo just took the contacts from all of our phones...there was no ask, no permissions...nothing...  We have three different cell lines in our house; was it suppose to do this?",technical_support,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1053490,@AmazonHelp Tried placing an order on amazon.fr and amazon.es for snes classic. Order cancelled and accounts closed. Multiple times.,cancellation_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1043671,"@AmazonHelp @115821 @115850 What do i do with your understanding. I have not received my product. By forwarding feedback, will I be receiving my prdct",missing_delivered,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+113737,@115830 @AmazonHelp !!!!!!!!,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+113768,@115830 @AmazonHelp Can I ask why my Echo with free delivery adds £3+ delivery when placed in the cart?,refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1066676,@AmazonHelp No joy,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1140841,@AmazonHelp Case number 4513803001 called on 10/9 for reimbursement check  $39.99 still waiting for check. Put in request on 8/31/17.,refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1121624,@115850 Hope i win #HappyDiwali,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1007767,@115821 so disappointed in ya'll.,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1157977,"amazon india
+ordered attached product but received only one packet .",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1108799,@AmazonHelp How do you charge shipping charges for COD customer if he hasn't self shipped it,refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1112584,Hi @AmazonHelp I am still getting these weird emails after someone stole my password 😳,account_access,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1117737,@AmazonHelp Does Amazon offer discount for hosting/cloud services for Prime Member?,prime_membership,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1133476,So what's the benefit for prime membership?,prime_membership,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1097261,@AmazonHelp @115850 @115821 @115830 this isn't 1st time i am hearing this and it's been almost 4 day i have been waiting for this issue,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1006541,@AmazonHelp 👌🏿👌🏿👌🏿 il était là,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1015609,"@AmazonHelp pero siguiendo sus factores:sí estaba disponible,envío a 2días y ya he comprado bastantes productos y siempre me han llegado a tiempo.",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1060417,@AmazonHelp Thanks it was .co.uk,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1110796,@AmazonHelp is there any reason why my prime eligible shirts that I'm trying to order with 2-day shipping won't be delivered until 10/30,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+108168,@AmazonHelp Estou bem inclinada a fazer isso!,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1007726,Care to explain @115830? Ruining birthdays is NOT cool,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1098635,@AmazonHelp 画像からお願いします,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1047220,@120540 Per quale assurda ragione è stata eliminata la modalità landscape su iPad? Su iPad Pro con smartkeyboard è scomodissimo! 😒,technical_support,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1142012,"Seems @115821 @AmazonHelp are up to their old tricks - this time buy through their global store and you have no rights,they say.",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1060469,Does @115821 sell the bluray/cd set or just the cd for the new @46152 concert? They dont know!!,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1105549,Not sure why @115821 offers next day delivery when it never comes next Fuck in day,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1135041,@AmazonHelp where’s my WWII? Ordered it back in April and it hasn’t come👏🏼 and @ATVIAssist your bonus codes dont work that got sent by email,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1626103,@115850 Yeah done ☺️☺️!!,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1133527,@120533 C'est incroyable quand même vous disiez que le remboursement se fera entre 5-7 jours et j'ai toujours pas eu mon remboursement 😡,refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1085146,"@AmazonHelp En transit, livraison prévue avant 20h",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1050387,@AmazonHelp Thankyou. I think I’ve sorted it now I’ve managed to place my order. I think it may have been a problem with my password. I’ll get in touch if I have any more problems. Thankyou for your speedy response.,account_access,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1085344,アマゾンから届いた物ヒビ入ってたんだけどふざけんな返品だコノヤロウ,damaged_item,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1156239,"Paid over $14 for 1 day shipping from @115821. 4 days later, my package isn’t arriving for another 2 days. @AmazonHelp, wyd?",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1004539,@AmazonHelp J’ai testé de supprimer et re-install l’app =&gt; j’arrive a me co !!!,account_access,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1022817,"@120533 Colis déclaré livré, jamais reçu, pas d'avis de passage. Bravo Amazon Logistics.
+(Oui ce tt est là pour vous afficher en public)",missing_delivered,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1076319,"@116928 Para cuando el Fire TV stick en España? Es ridículo que entre dentro de Prime, pero que no se pueda ver en la tele.",technical_support,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1125303,"Oggi mi arriva il #kindle, però deve arrivare perché già mi sto incazzando.",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1043629,"So someone has changed my amazon email on my account, bought something and @115830 are waiting 48 hours before they do anything 🙂👍🏽",account_access,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1004541,@AmazonHelp Merci pour votre aide et rapidité ! Bon weekend ;),other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1001021,"Quelqu'un peut m'aider à configurer une manette pour PC acheté sur @120533 ?
+
+Reconnu par mon PC mais aucune réaction des touches ☹️",technical_support,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1048111,@AmazonHelp Great 👍🏻,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1119288,@AmazonHelp わざわざすいません！！えっと、Amazon確認コードはメールじゃなくてメッセージで来たので携帯電話番号で登録したと思います！,account_access,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1122267,@115850 please do not mark products delivered “directly to customer” when it is left at reception without information.,missing_delivered,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1041700,@116875 Tienen el libro de @92163 “la tinta mas allá de la magia” ??,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1073222,"@AmazonHelp tired of email/chat support with poor English. Delivery delayed, chat assured would be delivered. wasn’t.  Perhaps you can help?",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+109980,@AmazonHelp Il c’est perdu ou pas ?,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1061384,@AmazonHelp Qué otras alternativas tengo para enviar lo que necesitan?,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1121747,"まってamazonで予約入れてたのに届かないんだけど。
+もしかして届くの明日とか？",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1066679,@117086 tem como pegar pelo unlimited um ebook que está em pré-venda?,prime_membership,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1166677,@115821 doing its fine parking again preventing me from getting on my drive for 15minutes! 😠😠😠😠,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1125133,"I'm loving my @115833! ❤️ But how do I train Alexa or create voice profile? There seems to be an error in the Settings &gt; Your Voice. I can't click ""begin"".",technical_support,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1137313,"@AmazonHelp Mustn’t have seen that, maybe you need to make it clearer on the product page / checkout?!",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1110253,@AmazonHelp Q lindosss vcs são os melhores do mundo!!! Chega no maximo até dia 7 de nov. ícones literários fazem assim,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1002882,@AmazonHelp I’m not paying again for product Ive already paid for on next day delivery. If you can’t deliver the First I don’t trust you to deliver no 2,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1132052,@386757 @AmazonHelp Mas só se tiver promoção hauahauaga,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1083870,"@AmazonHelp But I haven’t received my deducted amount.
+Do you have any answers on it @AmazonHelp @21987",refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1037285,@AmazonHelp ordered a dash cam- it stopped working so I contacted the company who said they’d send one out. Had nothing back of them and apparently it’s been “lost”. The company said contact amazon. So can you help?,technical_support,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1055402,@AmazonHelp We order a delivery usually once a weekend. Wouldn’t risk another evening/90mins to be left high &amp; dry again. Not a chance #AmazonRestaurant,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+102945,@138640 @138641 @115821 They website still told me my items were coming even though shipping clearly indicated they were returning to seller after damage on the delivery truck 🤷‍♂️,damaged_item,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1062312,"amazonの罠にかかり、間違えて、プライムお試しで、配送してしもた。
+罠が過ぎるボタン配置だった………",prime_membership,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+111926,"- Mit Hawaiihemd auf iPad Amazon Fresh bestellen
+- füße auf Schreibtisch, wippend 
+- ""sexy Beach-Traum""
+- DingDong",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1114990,very angry that I've had to cancel my LIMITED EDITION Destiny 2 order from @115830 because they delayed it and it wont arrive on time. 😠,cancellation_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1106521,@AmazonHelp Ce qui entraîne également la rapide non disponibilité de pas mal d'articles. Ajustements peut-être à prévoir dans la gestion du stock 😉,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1072168,@AmazonHelp What to do?,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1043575,@AmazonHelp Sorted out the issue by myself,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1129807,"@AmazonHelp No, all good, I was just surprised.",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1015625,"@AmazonHelp Gracias, muy amable.",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1134070,@387214 @AmazonHelp Bewertung/Rezension lesen zu können.,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1116163,@115850 Is @115850 going insane?,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1146985,@AmazonHelp 当日配達したのにまだ来ないんですが来るんですか？この時間に来ないってことは明日なんですか？,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1114886,@AmazonHelp - have lost them.,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+105213,"@AmazonHelp code:  ""BUY3GET30""  (for 3 books purchased)",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1111333,"@AmazonHelp わざわざご連絡ありがとうございます😭
+気をつけます！！",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1115810,@AmazonHelp Shinchan Season 4,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1009817,密林から支払い番号来ないいいい,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1089762,@AmazonHelp Not received any email from you..,missing_delivered,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1119112,@AmazonHelp I had no other choice.,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+124690,@AmazonHelp Ainda não!!! Mas vou pesquisar!,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1081464,@AmazonHelp Any updates?,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1098599,@116875 tuve un problema con un pedido..,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1001000,@AmazonHelp Thank u,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1110776,"@AmazonHelp そうなんですね！
+ありがとうございます！",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1007834,Amazonプライム会員なんて登録した覚えないのに請求きてるよ！！なんでよ！！3900えん。。返金してほしいよ〜😢,refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1047258,"@AmazonHelp 回答有り難うございます。
+
+今まで何を買っても入ってたので入ってるのが普通だと思ってました。
+
+すみません。",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1075321,"What is the meaning of this, @115821  @AmazonHelp",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1104434,Amazonでiphone7のケース頼んだらiphone6のケースが届いたんだがwww,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1020265,@AmazonHelp No it wasn't ^^,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1089850,そういやアマゾン届かない。,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1124965,@AmazonHelp Please check and confirm once please,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+101762,@AmazonHelp Thanku,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1016743,@119356 @115851 Are u guys sleeping??,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+114308,"@116316 Danke, ihr seid ja echte Gönner!",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1129386,@AmazonHelp How many times????????????????????????,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1141546,@115850 reg. Order# 406-6313850-3184319 I had a bad exp. Yesterday the cc ex. bhavesh was ready to disconnect instead of solving. 1/n,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1004431,Ordered @138673 4 phone off @115850 on 19Oct. Status marked as delivered on 22Oct but no phone received. Customer service unhelpful.,missing_delivered,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1145027,Hey @115830 why was my Prime delivery unsuccessful when I have safe place instructions on file? Not happy!,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1033194,"@115850 order processed and shipped ,then cancelled due to payment error. Amount has been deducted from my account.",refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+102910,@AmazonHelp I have filled this form but ı have no hope. No one read my text/mail. I lost hope to amazon :( Anyway thanks for spare time to me.,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1100485,@115830 not impressed with Amazon again been sat in all day waiting for delivery parcel no202-7673239-9888363 tracked it and at 5.50 on said in Swarthmore rd my delivery next then get email saying tried 2 deliver not true I am not happy may cancel account and tell all friends 2,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1078632,.@115850 delivery makes me happy. Ready to open boxes.,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1045524,"I had to spend my diwali without a tv coz @115850 failed to deliver my dth order whch was given 15days back.
+#verydisapointed 
+@AmazonHelp",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+11605,"@AmazonHelp Carrier: AMZL US, Tracking #: TBA516106123000",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1155101,@AmazonHelp esp bc two day shipping was F R E E,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1089839,1 more strike 4 @115821 prime &amp; I'm done. Another late delivery &amp; driver claimed my door inaccessible...I live in typical Chicago 3-flat.,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1096620,@AmazonHelp Where is it ? I need the delivery today that’s it ! How long shuld I wait no updates nothing ! No calls ! I wanted to enjoy Diwali,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1050700,@AmazonHelp I have already submitted the feedback of WRONG Sms &amp; Email. Now send my order immediately,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1137260,"@115821 I didn't received my order redme 4, but it's showing delivered on yesterday, still I m not getting proper response from any side.",missing_delivered,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1096610,"Hello @amazonhelp; for an order sent in 2 packages, I can only request an invoice for the first part, not the second one. 1/2",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1071120,AMAZON DIDNT DELIVER MY FUCJING PACKAGE FOR NO FUCKIG REASON,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1041782,@AmazonHelp When I pay over $90 a year for prime and the 2 day shipping I expect for the items I order to arrive on listed date. I needed something for holidays and it won’t arrive in time.,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1095848,@AmazonHelp It says it was delivered yesterday.,missing_delivered,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1170099,"@AmazonHelp i ordered a product on the 14th and it was next day delivery at 1pm, i check the tracking then and it tells me it won't be 1/3",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1037191,@AmazonHelp No. Just been told to go out of our way (nearest post office is actually quite a bit away) to return it for a refund. All she wanted was the baskets to actually be delivered,refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1114861,"@AmazonHelp Guess what. They were no help! No item on its way, it’s just been refunded after 2 weeks. Awful customer service. Last time i’ll use amazon",refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1049126,"@AmazonHelp I just did. I would prefer a replacement, however the Amazon app kept freezing on the decision page when that was selected. So had to refund",technical_support,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1059303,@AmazonHelp - my account has been charged a mystery recurring subscription fee. How do I get this explained and reversed?,refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1028195,"@AmazonHelp Also, what's so different with this purchase from others that removes VAT as an inclusion in the price? Everything else I buy includes this!",refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1033235,"Man, ordered @3323 but got @45256. @115850 next time you’re getting Monopoly money. Disappointing!",other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1101688,Hey @115850. Haven't been able to place any orders since morning. Tried different products &amp; payment methods. Please help.,technical_support,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1141944,@AmazonHelp It's already 48 hours and still I don't have any update of my order. deliver my order or refund my money but don't test my patience,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+109782,"Probably going to cancel my @115821 prime account. Their ""couriers"" aren't reliable and some sellers don't even ship products out. (Still waiting for a sweater I ordered a month ago) Going back to brick and mortar stores.",prime_membership,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1173909,"@AmazonHelp hi, you've cancelled and refunded my order of £16.15 without asking me. To reorder will cost me £20.48 - bit of a piss take no 🤔",refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1137351,@AmazonHelp No resolution yet! Where is my money? #Amazonfraud,refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1013787,"@AmazonHelp will do, I'll let you know when the refund arrives :-)",refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1179694,@AmazonHelp I don’t want a refund I just want a different card,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1047243,"@AmazonHelp Yes, between shioty online and phone customer service and being double charged for an item, I will no longer be using your services, ever.",refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1082937,@AmazonHelp hi trying to cancel a preorder for a book but its not letting me. click cancellation reason then confirm but it reloads the page,cancellation_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1100529,"@115821 if I paid the extra $9 for Saturday shipping and UPS now tells me I won’t get my order until Monday, will I be refunded?",refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1020921,At least mine wasn’t like @240444 ? @240445 It was packed even worse in the yellow paper slip though. Late and damaged @115821,damaged_item,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1072546,@AmazonHelp I was promised a refund of bank fees and 4 purchases from 10/14. The refund was promised to be in my account on 10/20,refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1156186,"@AmazonHelp En la app me pone ahora retroprogramado, así q llegará mñn. Thanks",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+111945,El servicio de Amazon Prime deja bastante que desear. Las entregas en un día o dos se convierten en entregas de una semana. Lamentable. Para esto pagamos un servicio... @116928,prime_membership,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1083821,"@115821 / @AmazonHelp - Two day delivery is the promise, not “two days + processing + transit time.” Feeling like a 2nd class Prime member.",prime_membership,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1004599,@AmazonHelp Account has been on hold for what seems like forever (a year) 😩 I wanna Christmas shoppppppp,account_access,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1155134,@AmazonHelp stayed at home all day to receive a next day amazon prime delivery and nothing has arrived. A refund on my sub please 😡,refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1041643,@AmazonHelp I've disputed charges from you and you've said I would be contacted by act. Spec. No contact. You deleted my Prime. What gives?,refund_request,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1155151,"@115830 had order damaged in transit, how do I sort out refunding / redelivery please?",damaged_item,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1354457,@AmazonHelp Amazon account is registered with the mail - __email__,account_access,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+103083,"@AmazonHelp Tried it. Not helping. The link took me to a call which sent me a  replacement link.  I want to return the item and not replace it. Your app only has the option to replace. I want to buy it from @5903 directly. 
+What do I do. Have someone call me now!!",technical_support,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1127963,@115830 why do you use DPD to deliver. Never arrives next day even though I have prime,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1133492,"@115821 @115850 
+@119625  @AmazonHelp 
+I ordered my product before 6hrs &amp; I've my prime membership still its not shipped yet?why?!!",delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+115952,"@AmazonHelp Beides in der Amazon Shopping App Definition ja. 
+Ich bestelle ja vier mal pro Woche bei euch. 
+
+Aber könnte auch eine Einstellung aus dem USA Urlaub sein… 
+
+In der prime video App kann ich das aber nicht verändern?",technical_support,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1146932,@AmazonHelp Yes! Only 1 account.,account_access,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1004411,@115821 my packages keep getting delayed and bounced around. What’s going on?!,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1144977,@AmazonHelp Tracking status was updated on YOUR end but only way I found out was when package didn't arrive &amp; I went into order history. Not acceptable.,delivery_delay,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+1156252,@AmazonHelp Just opened a new screen protector for my phone and one of the screen protectors was already used 🤨🤔,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+110021,@AmazonHelp Die 7. Staffel von „Vier Frauen und ein Todesfall“ wäre auch mehr als wünschenswert ...,other_unclear,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset
+105080,@AmazonHelp Hatte bereits am Mittwoch ein Gespräch... keiner konnte mir bisher sagen warum ich (Prime Kunde) etwas per premiumversand bestelle das per Post rausgeht und nicht als kleines Priorität Päckchen versendet wird,prime_membership,Model-assisted label; not independently human-verified.,prepared_amazonhelp_dataset

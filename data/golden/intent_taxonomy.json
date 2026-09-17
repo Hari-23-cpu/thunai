@@ -1,0 +1,275 @@
+{
+  "brand": "AmazonHelp",
+  "version": "1.0",
+  "description": "Intent taxonomy derived from representative AmazonHelp customer-support conversations.",
+  "source_file": "data/golden/intent_discovery_sample.csv",
+  "intent_count": 9,
+  "intents": [
+    {
+      "intent_id": "delivery_delay",
+      "name": "Delivery Delay",
+      "description": "Customer reporting that their package has not arrived by the expected delivery date.",
+      "customer_problem": "Package is late or past the promised delivery window.",
+      "inclusion_criteria": [
+        "Package delayed past promised date",
+        "Tracking status stuck or not updating",
+        "Requests for status update after delay"
+      ],
+      "exclusion_criteria": [
+        "Package marked delivered but not found (see missing_delivered)",
+        "Stolen package issues"
+      ],
+      "example_messages": [
+        "My order was not delivered. It was supposed to arrive yesterday.",
+        "It's already past the expected delivery date, where is my package?"
+      ],
+      "historical_resolution_patterns": [
+        "Ask for carrier/tracking details",
+        "Advise waiting until the following business day",
+        "Provide link to tracking/help page",
+        "Direct customer to contact support team via phone/chat"
+      ],
+      "common_signals": [
+        "delayed",
+        "late",
+        "still waiting",
+        "expected",
+        "delivery date"
+      ]
+    },
+    {
+      "intent_id": "missing_delivered",
+      "name": "Package Marked Delivered But Not Received",
+      "customer_problem": "Tracking says 'delivered', but the customer does not have the package.",
+      "inclusion_criteria": [
+        "Tracking shows delivered but item missing",
+        "Package not found at designated safe place",
+        "Package delivered to wrong address"
+      ],
+      "exclusion_criteria": [
+        "Package delay without delivered status",
+        "Stolen package reported by third party"
+      ],
+      "example_messages": [
+        "Why did you say you delivered my package an hour ago and it still isn’t here?",
+        "Tracking says delivered but I have nothing."
+      ],
+      "historical_resolution_patterns": [
+        "Ask customer to verify delivery preferences",
+        "Request carrier info",
+        "Provide help page link for missing items",
+        "Direct to support team for formal investigation"
+      ],
+      "common_signals": [
+        "delivered",
+        "not received",
+        "not here",
+        "missing"
+      ]
+    },
+    {
+      "intent_id": "damaged_item",
+      "name": "Damaged or Defective Item",
+      "customer_problem": "Received item is physically broken, cracked, or not functioning.",
+      "inclusion_criteria": [
+        "Physical damage upon arrival",
+        "Electronic device non-functional",
+        "Leaking or spilled contents"
+      ],
+      "exclusion_criteria": [
+        "Wrong item received",
+        "Incomplete order/missing parts"
+      ],
+      "example_messages": [
+        "I just received my order and the item is damaged.",
+        "The item arrived cracked and leaking."
+      ],
+      "historical_resolution_patterns": [
+        "Express apology",
+        "Direct customer to return/replacement flow",
+        "Request order details for official claim"
+      ],
+      "common_signals": [
+        "damaged",
+        "broken",
+        "cracked",
+        "defective",
+        "leaking"
+      ]
+    },
+    {
+      "intent_id": "refund_request",
+      "name": "Refund and Billing Issue",
+      "customer_problem": "Customer seeking money back or questioning unexpected charges.",
+      "inclusion_criteria": [
+        "Unauthorized charges",
+        "Refund request after return",
+        "Double billing queries"
+      ],
+      "exclusion_criteria": [
+        "General complaints without financial impact",
+        "Cancellation request for non-billed items"
+      ],
+      "example_messages": [
+        "I was charged for an item I never received.",
+        "When will I get my refund?"
+      ],
+      "historical_resolution_patterns": [
+        "Direct to billing/account support",
+        "Explain refund processing timelines",
+        "Request customer to reply to official email correspondence"
+      ],
+      "common_signals": [
+        "refund",
+        "charged",
+        "money back",
+        "payment",
+        "deducted"
+      ]
+    },
+    {
+      "intent_id": "cancellation_request",
+      "name": "Order Cancellation",
+      "customer_problem": "Customer wants to stop an order before it ships or complains about an unauthorized cancellation.",
+      "inclusion_criteria": [
+        "Request to cancel active order",
+        "Complaint regarding automated cancellation"
+      ],
+      "exclusion_criteria": [
+        "Post-delivery return requests",
+        "Refund requests for shipped orders"
+      ],
+      "example_messages": [
+        "Can I cancel my order?",
+        "Why was my order cancelled without my permission?"
+      ],
+      "historical_resolution_patterns": [
+        "Provide instructions on cancellation window",
+        "Direct to order history for self-service options",
+        "Suggest contacting support if order is already processing"
+      ],
+      "common_signals": [
+        "cancel",
+        "cancelled",
+        "cancellation"
+      ]
+    },
+    {
+      "intent_id": "account_access",
+      "name": "Account and Login Issue",
+      "customer_problem": "Customer unable to access their Amazon account.",
+      "inclusion_criteria": [
+        "Password reset failures",
+        "Hacked account concerns",
+        "Login loop errors"
+      ],
+      "exclusion_criteria": [
+        "General feedback about Amazon services",
+        "Order-specific issues not related to login"
+      ],
+      "example_messages": [
+        "I can't login to my account.",
+        "My account has been hacked."
+      ],
+      "historical_resolution_patterns": [
+        "Direct to account recovery help pages",
+        "Escalate to account security specialists",
+        "Provide official support link for sensitive issues"
+      ],
+      "common_signals": [
+        "login",
+        "password",
+        "hacked",
+        "account",
+        "sign in"
+      ]
+    },
+    {
+      "intent_id": "prime_membership",
+      "name": "Prime Membership",
+      "customer_problem": "Queries about Prime benefits, unwanted subscription charges, or sign-up issues.",
+      "inclusion_criteria": [
+        "Cancel prime subscription",
+        "Benefits confusion",
+        "Unexpected prime renewal fee"
+      ],
+      "exclusion_criteria": [
+        "Delivery speed complaints",
+        "Standard order payment issues"
+      ],
+      "example_messages": [
+        "I was charged for prime but I'm not a prime member.",
+        "How do I cancel my prime subscription?"
+      ],
+      "historical_resolution_patterns": [
+        "Provide instructions to manage prime membership",
+        "Acknowledge dissatisfaction with charges",
+        "Direct to account service for billing help"
+      ],
+      "common_signals": [
+        "prime",
+        "membership",
+        "subscription",
+        "prime video"
+      ]
+    },
+    {
+      "intent_id": "technical_support",
+      "name": "Technical and Digital Content",
+      "customer_problem": "Issues with apps, Kindle devices, or digital streaming content.",
+      "inclusion_criteria": [
+        "App streaming/buffering",
+        "Kindle device freezing",
+        "Digital content access errors"
+      ],
+      "exclusion_criteria": [
+        "Physical product damage",
+        "Delivery issues for digital hardware"
+      ],
+      "example_messages": [
+        "My Kindle won't connect to the internet.",
+        "Amazon Video keeps buffering."
+      ],
+      "historical_resolution_patterns": [
+        "Suggest device restart",
+        "Request device details/browser version",
+        "Direct to digital specialist support team"
+      ],
+      "common_signals": [
+        "kindle",
+        "app",
+        "buffering",
+        "streaming",
+        "error"
+      ]
+    },
+    {
+      "intent_id": "other_unclear",
+      "name": "Other / Unclear / Ambiguous",
+      "description": "Messages that are too vague, off-topic, or missing enough info to classify.",
+      "customer_problem": "General greetings, ambiguous queries, or noisy messages.",
+      "inclusion_criteria": [
+        "General 'Help' requests with no details",
+        "Conversational chit-chat",
+        "Ambiguous messages not matching other categories"
+      ],
+      "exclusion_criteria": [],
+      "example_messages": [
+        "Hi.",
+        "Help me please.",
+        "Is anyone there?"
+      ],
+      "historical_resolution_patterns": [
+        "Polite acknowledgement",
+        "Request for more details without account specifics",
+        "Suggest visiting help page"
+      ],
+      "common_signals": [
+        "help",
+        "hi",
+        "there",
+        "message"
+      ]
+    }
+  ]
+}

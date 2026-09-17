@@ -1,0 +1,148 @@
+=== TAXONOMY VALIDATION ===
+Conservative heuristic validation for manual review.
+This is NOT classifier accuracy.
+
+=== SUMMARY ===
+total_messages: 400
+clear_matches: 15
+weak_matches: 42
+ambiguous_matches: 2
+no_matches: 341
+multilingual_messages: 120
+short_or_noisy_messages: 128
+
+=== INTENT COVERAGE ===
+
+Delivery Delay (delivery_delay)
+  Best matches: 14
+  Candidate matches: 15
+  Percentage: 3.5%
+
+Package Marked Delivered But Not Received (missing_delivered)
+  Best matches: 29
+  Candidate matches: 32
+  Percentage: 7.2%
+
+Damaged or Defective Item (damaged_item)
+  Best matches: 7
+  Candidate matches: 7
+  Percentage: 1.8%
+
+Refund and Billing Issue (refund_request)
+  Best matches: 12
+  Candidate matches: 14
+  Percentage: 3.0%
+
+Order Cancellation (cancellation_request)
+  Best matches: 7
+  Candidate matches: 8
+  Percentage: 1.8%
+
+Account and Login Issue (account_access)
+  Best matches: 5
+  Candidate matches: 11
+  Percentage: 1.2%
+
+Prime Membership (prime_membership)
+  Best matches: 15
+  Candidate matches: 18
+  Percentage: 3.8%
+
+Technical and Digital Content (technical_support)
+  Best matches: 18
+  Candidate matches: 19
+  Percentage: 4.5%
+
+Other / Unclear / Ambiguous (other_unclear)
+  Best matches: 2
+  Candidate matches: 3
+  Percentage: 0.5%
+
+=== OVERLAPS ===
+
+=== OTHER / UNCLEAR ===
+Count: 2
+Percentage: 0.5%
+- 1115370: @AmazonHelp No new message...
+- 1033211: @AmazonHelp I sent a message &amp; it says I'll hear back within 12hrs. I don't have time for this. I'm done with Amazon. Goodnight.
+
+=== NO MATCHES ===
+Count: 341
+Percentage: 85.2%
+- delivery (19)
+- i'm (18)
+- from (18)
+- any (14)
+- all (14)
+- got (14)
+- delivered (13)
+- why (13)
+- they (12)
+- ordered (12)
+- what (12)
+- how (12)
+- day (12)
+- it's (11)
+- time (10)
+
+=== MULTILINGUAL ===
+Count: 120
+Percentage: 30.0%
+Status breakdown: {'no_match': 104, 'weak_match': 11, 'clear_match': 3, 'ambiguous_multiple_matches': 2}
+
+=== DELIVERY DELAY REVIEW ===
+Candidate count: 15
+Best match count: 14
+Suspicious delivered-status examples: 0
+Review note: Delivery delay should cover late, overdue, stuck, or not-yet-received orders without delivered-status language. Delivered-status complaints should normally be reviewed under missing_delivered.
+
+=== INTENT REVIEWS ===
+
+Delivery Delay (delivery_delay)
+  Best matches: 14
+  Candidate matches: 15
+  Review: 2 candidate examples have high-confidence overlap with another intent.
+
+Package Marked Delivered But Not Received (missing_delivered)
+  Best matches: 29
+  Candidate matches: 32
+
+Damaged or Defective Item (damaged_item)
+  Best matches: 7
+  Candidate matches: 7
+
+Refund and Billing Issue (refund_request)
+  Best matches: 12
+  Candidate matches: 14
+  Review: 1 candidate examples have high-confidence overlap with another intent.
+
+Order Cancellation (cancellation_request)
+  Best matches: 7
+  Candidate matches: 8
+
+Account and Login Issue (account_access)
+  Best matches: 5
+  Candidate matches: 11
+  Review: 3 candidate examples have high-confidence overlap with another intent.
+
+Prime Membership (prime_membership)
+  Best matches: 15
+  Candidate matches: 18
+  Review: 3 candidate examples have high-confidence overlap with another intent.
+
+Technical and Digital Content (technical_support)
+  Best matches: 18
+  Candidate matches: 19
+  Review: 2 candidate examples have high-confidence overlap with another intent.
+
+Other / Unclear / Ambiguous (other_unclear)
+  Best matches: 2
+  Candidate matches: 3
+  Review: Low representation in this discovery sample; manual review is required.
+
+=== RECOMMENDATIONS ===
+- The heuristic validator is intentionally conservative. Do not interpret the low clear-match count as poor taxonomy quality; use it to identify examples for manual review.
+- Review Other / Unclear examples manually and ensure generic words such as help, please, or there are not driving intent assignment.
+- Review no-match examples for recurring actionable customer problems before adding any new intent.
+- Include multilingual examples in the manual golden-set review so taxonomy decisions are not English-only.
+- Do not use this heuristic report as classifier accuracy. The final taxonomy should be validated through manual labeling of the 150–250 example golden evaluation set.
